@@ -8,7 +8,7 @@
   import Sobre from '../components/home/Sobre.vue';
   import SejaInvestidor from '../components/home/SejaInvestidor.vue';
   import PassoaPasso from '../components/home/PassoaPasso.vue'
-  import Cta from '../components/home/Cta.vue';
+
 </script>
 
 <template>
@@ -20,6 +20,6 @@
     <Frota/>
 
     <PassoaPasso />
-  
+
   </main>
 </template>
